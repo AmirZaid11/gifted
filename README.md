@@ -1,3 +1,4 @@
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
@@ -136,12 +137,3 @@
 [![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-
-
-
-
-
-
